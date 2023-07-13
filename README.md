@@ -9,7 +9,7 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 ![](https://custom-icon-badges.demolab.com/badge/Hyprland-wm-blue.svg?logo=hyprland)\
 ![Arch](https://img.shields.io/badge/Arch%20Linux-168ECA?logo=arch-linux&logoColor=fff&style=flat) /
 ![](https://custom-icon-badges.demolab.com/badge/Sway-wm-red.svg?logo=sway)\
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/Ricing...?color=edca00&labelColor=edca00&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
 
 ---
 <p float="left">
