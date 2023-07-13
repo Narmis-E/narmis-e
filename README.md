@@ -10,6 +10,6 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 
 ---
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmis-E&layout=compact" width="200" height=auto />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmis-E&layout=compact" width="260" height=auto />
   <img src="https://raw.githubusercontent.com/Narmis-E/Narmis-E/output/output/github-snake-dark.svg" width="600" height="140" />
 </p>
