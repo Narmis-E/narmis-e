@@ -9,7 +9,7 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
 
 ---
-<p float="right">
+<p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narmis-E&layout=compact" width="250" height=auto />
   <img src="https://raw.githubusercontent.com/Narmis-E/Narmis-E/output/output/github-snake-dark.svg" width="700" height="135" />
 </p>
