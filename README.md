@@ -10,10 +10,9 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-168ECA?logo=arch-linux&logoColor=fff&style=flat) /
 ![](https://custom-icon-badges.demolab.com/badge/Sway-wm-red.svg?logo=sway)\
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
-
----
+![](https://komarev.com/ghpvc/?username=Narmis-E)
 <p float="left">
-  <img src="https://streak-stats.demolab.com/?user=Narmis-E&theme=onedark" witdth="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Narmis-E&show_icons=true&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narmis-E&theme=onedark" width="600" height="200"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Narmis-E&theme=onedark" />
   <img src="https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg" width="1000" />
 </p>
