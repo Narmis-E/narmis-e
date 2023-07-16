@@ -14,5 +14,6 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 <p float="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narmis-E&theme=onedark" width="600" height="200"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Narmis-E&theme=onedark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Narmis-E&theme=onedark" />
   <img src="https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg" width="1000" />
 </p>
