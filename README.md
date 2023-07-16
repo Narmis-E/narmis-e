@@ -13,7 +13,7 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 ![](https://komarev.com/ghpvc/?username=Narmis-E)
 <p float="left">
   <img src="https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narmis-E&theme=onedark" width="600" height="200"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Narmis-E&theme=onedark" width="650" height="200"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Narmis-E&theme=onedark" height="190" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Narmis-E&theme=onedark" height="190" />
 </p>
