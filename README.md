@@ -13,7 +13,7 @@ I pirate most of my games and media because; bad corpos, I don't have the money 
 
 ---
 <p float="left">
-  <img src="https://streak-stats.demolab.com/?user=Narmis-E&theme=onedark" width="390" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Narmis-E&show_icons=true&theme=onedark" width="378" />
+  <img src="https://streak-stats.demolab.com/?user=Narmis-E&theme=onedark" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Narmis-E&show_icons=true&theme=onedark" width="360" />
   <img src="https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg" width="1000" />
 </p>
