@@ -8,7 +8,7 @@ I Use a Lenovo Legion 5 (2022) for dualbooting Archlinux, POP!_OS and Windows 10
 ![](https://custom-icon-badges.demolab.com/badge/Pop!__OS--00D9D6.svg?logo=pop_os)\
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1BADF6?logo=arch-linux&logoColor=fff&style=flat) /
 ![](https://custom-icon-badges.demolab.com/badge/Sway-wm-FE403F.svg?logo=sway)\
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/Ricing...?color=edca00&labelColor=edca00&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/Ricing...?color=61d800&labelColor=61d800&icon=discord)](https://github.com/Narmis-E/narmis-e)
 ![](https://komarev.com/ghpvc/?username=Narmis-E)
 <p float="left">
   <img src="https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg"/>
