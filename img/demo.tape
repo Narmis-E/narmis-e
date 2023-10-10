@@ -1,14 +1,14 @@
 # img/demo.tape
 # VHS documentation
 Output img/demo.gif
-Set Margin 20
+Set Margin 25
 Set MarginFill "#f6c177"
-Set BorderRadius 3
+Set BorderRadius 10
 
 Set FontSize 32
 Set Width 1500
-Set Height 1000
+Set Height 900
 
-Sleep 500ms
+Sleep 700ms
 Type "ghfetch -u Narmis-E --access-token=$GITHUB_TOKEN" Sleep 1000ms Enter
 Sleep 10s
