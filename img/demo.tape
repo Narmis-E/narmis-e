@@ -10,5 +10,5 @@ Set Width 1500
 Set Height 1000
 
 Sleep 500ms
-Type "ghfetch -u orangekame3 --access-token=$GITHUB_TOKEN" Sleep 1000ms Enter
+Type "ghfetch -u Narmis-E --access-token=$GITHUB_TOKEN" Sleep 1000ms Enter
 Sleep 10s
