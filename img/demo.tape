@@ -5,7 +5,7 @@ Set Margin 25
 Set MarginFill "#f6c177"
 Set BorderRadius 10
 
-Set FontSize 32
+Set FontSize 28
 Set Width 1500
 Set Height 900
 
