@@ -1,7 +1,7 @@
 ## Hey, 👋
 ![](img/demo.gif)
 I'm Narmis - A Linux enthusiast, desktop ricer and highschool student. I Use a Lenovo Legion 5 (2022) for dualbooting Archlinux and Windows 10.\
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Watch%20Together%2C%201%20of%202%20videos%2C%20?color=edca00&labelColor=df1473&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/Ricing...?color=edca00&labelColor=edca00&icon=discord)](https://github.com/Narmis-E/narmis-e)
 ![](https://komarev.com/ghpvc/?username=Narmis-E)
 
 ![](https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg)
