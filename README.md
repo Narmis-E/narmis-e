@@ -3,7 +3,7 @@ I'm Narmis - A Linux enthusiast, desktop ricer and highschool student. I Use a L
 
 Website: [narmis-e.github.io](https://narmis-e.github.io/)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Online/Ricing...?color=61d800&labelColor=61d800&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
 ![](https://komarev.com/ghpvc/?username=Narmis-E)
 ![](https://github.com/Narmis-E/narmis-e/blob/output/github-contribution-grid-snake-dark.svg)
 
