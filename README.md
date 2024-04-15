@@ -4,7 +4,7 @@ I use a Lenovo legion slim 5 (2023) for dualbooting Arch Linux and Windows 10.
 
 Website: [narmis-e.github.io](https://narmis-e.github.io/)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Peaks%20of%20Yore%2C%20Climbing%20on%20Ymir%27s%20Shadow%2C%2034%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/You%20telling%20me%20a%20shrimp%20fried%20this%20rice%3F?color=edca00&labelColor=edca00&icon=discord)](https://github.com/Narmis-E/narmis-e)
 ![](https://komarev.com/ghpvc/?username=Narmis-E)
 
 ##### Knowledge:
