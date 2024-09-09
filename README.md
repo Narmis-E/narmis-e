@@ -4,7 +4,7 @@ I use a Lenovo legion slim 5 (2023) for dualbooting Arch Linux and Windows 10.
 
 Website: [narmis-e.github.io](https://narmis-e.github.io/)
 
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Loose%20Change%20%28feat.%20Earl%20Sweatshirt%29%20by%20The%20Alchemist%3B%20Earl%20Sweatshirt%20%7C%200%3A03%3A08%20of%200%3A01%3A58?color=edca00&labelColor=1db954&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Listening%20to/Spotify%2C%20Virtual%20Insanity%20-%20Remastered%202006%20by%20Jamiroquai%20%7C%200%3A04%3A52%20of%200%3A03%3A49?color=edca00&labelColor=1db954&icon=discord)](https://github.com/Narmis-E/narmis-e)
 ![](https://komarev.com/ghpvc/?username=Narmis-E)
 
 ##### Knowledge:
