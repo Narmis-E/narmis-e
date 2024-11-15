@@ -5,7 +5,6 @@ I use a Lenovo legion slim 5 (2023) for dualbooting Arch Linux and Windows 10.
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1BADF6?logo=arch-linux&logoColor=fff&style=flat)
 ![](https://custom-icon-badges.demolab.com/badge/dwl-FE403F.svg?logo=dwl) \
 ![](https://img.shields.io/date/1712525070.svg?label=Time%20since%20last%20distrohop:&colorB=green) \
-[![](https://badges.lastfm.workers.dev/last-played?user=narmise)](https://www.last.fm/user/narmise)
 
 
 ##### Knowledge:
