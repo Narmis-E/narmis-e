@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Whiteboard%2C%20Whiteboard%20creations%20in%20progress%2C%20?color=edca00&labelColor=df1473&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Medal%2C%20Clipping%20Backrooms%3A%20Escape%20Together%20%2C%2018%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/Narmis-E/narmis-e)
 
 ## Hey, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 I'm Narmis - A Linux enthusiast, desktop ricer and undergraduate. \
