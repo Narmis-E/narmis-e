@@ -6,11 +6,10 @@ I use a Lenovo legion slim 5 (2023) for dualbooting Arch Linux and Windows 10.
 ##### My current Rice:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1BADF6?logo=arch-linux&logoColor=fff&style=flat)
 ![](https://custom-icon-badges.demolab.com/badge/dwl-FE403F.svg?logo=dwl) \
-![](https://img.shields.io/date/1712525070.svg?label=Time%20since%20last%20distrohop:&colorB=green)
-
+![](https://img.shields.io/date/1712525070.svg?label=Time%20since%20last%20distrohop:&colorB=green) \
+[![monkeytype.badge]](https://monkeytype.com/)
 
 ##### Knowledge:
 [![](https://skillicons.dev/icons?i=linux,neovim,bash,python,cpp,html,css)](https://skillicons.dev)
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D72wpm%26label%3Dmonkeytype%26logoVariant%3Done
-[![monkeytype.badge]](https://monkeytype.com/)
