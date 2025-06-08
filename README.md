@@ -11,4 +11,4 @@ Most recent project: [dex-widget](https://github.com/narmis-e/dex-widget)
 [![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
 [![monkeytype.badge]](https://monkeytype.com/)
 
-[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D98wpm%26label%3Dmonkeytype%26logoVariant%3Done
+[monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D106wpm%26label%3Dmonkeytype%26logoVariant%3Done
