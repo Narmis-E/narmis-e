@@ -1,7 +1,9 @@
 ## Hey, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-I'm a linux enthusiast and colourscheme enjoyer
+I'm a linux enthusiast and colourscheme enjoyer. \
+I enjoy making wallpapers out of my favourite music, games and tv shows. \
+You can see a collection of the wallpapers I've made here: https://narmis-e.github.io/bg/
 
-Most recent project: [dex-widget](https://github.com/narmis-e/dex-widget)
+My most recent project: [dex-widget](https://github.com/narmis-e/dex-widget)
 
 <hr>
 
