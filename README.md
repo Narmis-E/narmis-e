@@ -10,7 +10,7 @@ My most recent project: [dex-widget](https://github.com/narmis-e/dex-widget)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-0B9CFF?logo=arch-linux&logoColor=fff&style=flat)
 ![](https://custom-icon-badges.demolab.com/badge/niri-5B5B5B.svg?logo=niri-dark) \
 ![](https://img.shields.io/date/1712525070.svg?label=last%20distrohop&colorB=green) \
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Currently%20Playing/Medal%2C%20Editing%20%26%20sharing%20Lethal%20Company%2C%202%20minutes%20elapsed.?color=edca00&labelColor=df1473&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
 [![monkeytype.badge]](https://monkeytype.com/)
 
 [monkeytype.badge]: https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D106wpm%26label%3Dmonkeytype%26logoVariant%3Done
