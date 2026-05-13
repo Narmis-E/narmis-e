@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Idle/%E1%94%A6%EA%99%AC%E1%94%A8?color=edca00&labelColor=edca00&icon=discord)](https://github.com/Narmis-E/narmis-e)
 
 Linux enthusiast and colourscheme enjoyer.
 
