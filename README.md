@@ -1,5 +1,3 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/Narmis-E/narmis-e)
-
 Linux enthusiast and colourscheme enjoyer.
 
 My most recent project: [dex-widget](https://github.com/narmis-e/dex-widget)
